@@ -1,0 +1,6 @@
+sonar.projectName=sonar-jenkins-project
+sonar.projectKey=sonar-jenkins-project
+sonar.projectversion=1.0
+sonar.language=python
+sonar.test=src/test/python
+sonar.sources=src/main/python
